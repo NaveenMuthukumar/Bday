@@ -104,20 +104,21 @@ backdrop-filter:blur(10px);
 }
 
 .photos{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-gap:20px;
-max-width:1200px;
-margin:auto;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+    border:3px solid red;
 }
 
 .photos img{
-width:100%;
-border-radius:20px;
-transition:.4s;
-cursor:pointer;
-box-shadow:0 5px 15px rgba(0,0,0,.3);
+    width:200px;
+    height:250px;
+    object-fit:cover;
+    display:block;
+    border:3px solid white;
 }
+
 
 .photos img:hover{
 transform:scale(1.06) rotate(2deg);
