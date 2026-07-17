@@ -221,3 +221,21 @@ width:90%;
 }
 
 }
+#finalMessage{
+display:none;
+animation:pop 1s ease;
+}
+
+@keyframes pop{
+
+0%{
+transform:scale(.5);
+opacity:0;
+}
+
+100%{
+transform:scale(1);
+opacity:1;
+}
+
+  }
