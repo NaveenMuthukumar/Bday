@@ -45,14 +45,7 @@ padding:20px;
 background:linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.35));
 }
 
-.overlay{
-background:rgba(255,255,255,.15);
-padding:40px;
-border-radius:30px;
-backdrop-filter:blur(15px);
-box-shadow:0 10px 40px rgba(0,0,0,.25);
-max-width:800px;
-}
+
 
 .welcome{
 font-family:'Great Vibes',cursive;
