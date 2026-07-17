@@ -118,7 +118,7 @@ const images = document.querySelectorAll(".photos img");
 
 images.forEach(img => {
 
-    img.addEventListener("none", () => {
+    img.addEventListener("click", () => {
 
         const overlay = document.createElement("div");
 
@@ -143,7 +143,7 @@ images.forEach(img => {
 
         overlay.appendChild(photo);
 
-        
+        overlay.onclick = () => overlay.remove();
 
         document.body.appendChild(overlay);
 
