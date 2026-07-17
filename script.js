@@ -19,11 +19,7 @@ Here's to more food adventures, more crime-partner moments, more laughter, and a
 Happy Birthday, my non-blood sister, my forever friend. ❤️
 
 Happy Birthday, my Anamcara ❤️
-
-You'll always be family to me.
-
-Love,
-Naveen ❤️`;
+`;
 
 let i = 0;
 
