@@ -8,15 +8,15 @@ window.onload = function () {
 // Your Birthday Letter
 const message = `Happy Birthday to the girl who isn't my sister by blood but is my sister by heart.
 
-You've been my partner in crime, my favorite foodie companion, and someone who can turn even the most ordinary day into an unforgettable memory.
-
-Every laugh, every meal, every silly conversation with you has become a memory I'll always treasure.
-
-Sometimes I smile thinking that if life had written our story differently, maybe I would have admired you in a completely different way. But I'm truly grateful that life made you my sister by heart, because that's a bond I'll cherish forever.
+There's one thought that always makes me smile: If only I had been older than you... maybe I would have tried my luck and fallen hopelessly in love with you. But life had a different story for us, and I'm grateful because it still gave me you.
 
 No matter where life takes us, I want you to know that I'll always be there for you—to celebrate your happiest moments, support you during the difficult ones, and continue creating countless memories together.
 
-Thank you for being the amazing person you are.
+Thank you for being the amazing person you are. Keep smiling, keep chasing your dreams, and never stop being the beautiful soul that makes everyone's life brighter.
+
+Here's to more food adventures, more crime-partner moments, more laughter, and a lifetime of friendship.
+
+Happy Birthday, my non-blood sister, my forever friend. ❤️
 
 Happy Birthday, my Anamcara ❤️
 
