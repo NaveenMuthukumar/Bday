@@ -167,14 +167,6 @@ margin-top:60px;
 
 /* Floating Hearts */
 
-.heart{
-position:fixed;
-bottom:-20px;
-font-size:24px;
-animation:floatUp linear infinite;
-opacity:.8;
-pointer-events:none;
-}
 
 @keyframes floatUp{
 0%{
